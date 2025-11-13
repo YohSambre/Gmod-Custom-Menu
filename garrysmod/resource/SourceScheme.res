@@ -491,11 +491,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lucida Console" [$WINDOWS]
+				"name"		"Arial Rounded MT" [$WINDOWS]
 				"name"		"Verdana" [!$WINDOWS]
-				"tall"		"10" [$WINDOWS]
-				"tall"		"14" [!$WINDOWS]
-				"weight"	"500"
+				"tall"		"14" [$WINDOWS]
+				"tall"		"13" [!$WINDOWS]
+				"weight"	"400"
 			}
 		}
 
